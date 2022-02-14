@@ -1,4 +1,4 @@
-## emoji-translate
+## Text To Emoji Converter
 
 You know how sometimes you type English and it has all these letters and words and no emoji? Yeah, emoji-translate fixes that.
 
