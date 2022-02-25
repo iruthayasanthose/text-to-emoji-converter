@@ -2,7 +2,7 @@
 
 You know how sometimes you type English and it has all these letters and words and no emoji? Yeah, emoji-translate fixes that.
 
-The Live version of this [Project](http://meowni.ca/emoji-translate) ✓
+The Live version of this [Project](https://iruthayasanthose.github.io/text-to-emoji-converter/) ✓
 
 ## As a library
 
